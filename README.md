@@ -8,7 +8,7 @@ Dependency
 this project use AOP for decrypt value from methoed that mark `@DecryptValue`
 
 Example
-UserModel
+
 ```java
 @Data
 public class UserInfo {
