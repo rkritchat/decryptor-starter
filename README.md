@@ -5,7 +5,7 @@ Dependency
 * spring-boot-autoconfigure
 * lombok
 
-this project use AOP for decrypt value from methoed that mark `@DecryptValue`
+This project use AOP for decrypt value from methoed that mark `@DecryptValue`
 
 Example
 
