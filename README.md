@@ -1,9 +1,9 @@
 # decryptor-starter
 
 Dependency
--> spring-boot-starter-aop
--> spring-boot-autoconfigure
--> lombok
+* spring-boot-starter-aop
+* spring-boot-autoconfigure
+* lombok
 
 this project use AOP for decrypt value from methoed that mark `@DecryptValue`
 
