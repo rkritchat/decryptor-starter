@@ -22,7 +22,7 @@ public class UserInfo {
 ```java
 @PostMapping
 @DecryptValue
-public UserInfo(@RequestBody UserInfo userInfo){
+public UserInfo test(@RequestBody UserInfo userInfo){
   return userInfo;
 }
 ```
