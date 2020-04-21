@@ -31,3 +31,7 @@ Assume that firstName is encrypted, then this advicer will decrypt all field tha
 Ps. this starter support Model inside Model by checking classLoader.
 
 
+- [x] Detect filed was encrypt and model in model
+- [x] Modify argument and execute by using `@Around`
+- [ ] decrypt with java cipher
+- [ ] support List
